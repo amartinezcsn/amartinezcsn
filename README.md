@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Power BI Dashboards**
 
-- 👯 I’m looking to collaborate on **Model's**
+- 👯 I’m looking to collaborate on **Methodsm, Models & Algorithms**
 
 - 💬 Ask me about **SQL Server, SSIS, SSRS, SSAS**
 
