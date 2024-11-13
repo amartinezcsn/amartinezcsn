@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrián Martínez</h1>
-<h3 align="center">A passionate data scientist from México</h3>
+<h3 align="center">A passionate Artificial Intelligence & Data Scientist from México</h3>
 
 - 🔭 I’m currently working on **Power BI Dashboards**
 
