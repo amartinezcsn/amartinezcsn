@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrián Martínez</h1>
 <h3 align="center">A passionate Artificial Intelligence & Data Scientist from México</h3>
 
-- 🔭 I’m currently working on **Power BI Dashboards**
+- 🔭 I’m currently working on Grupo Logistics as Business Inteligence Lead
+  
+- I've created **Power BI Dashboards**, *Pipelines for ETL using SQL Server Integration Services*, I was SQL Server Database Administrator and I was .Net Senior Developer.
 
-- 👯 I’m looking to collaborate on **Methods, Models & Algorithms**
+- 👯 I’m looking to collaborate on Machine Learning and develop **Methods, Models & Algorithms** for Artificial Intelligence applied to Business.
 
 - 💬 Ask me about **SQL Server, SSIS, SSRS, SSAS**
 
